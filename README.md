@@ -12,7 +12,7 @@ created in the project).
 
 **3D models can be loaded both from files and from URLs.**
 
- ![image](https://raw.githubusercontent.com/codemaker2015/unity3d-runtime-model-importer/master/images/test_unity3d runtime model importer.jpg)
+ ![image](https://raw.githubusercontent.com/codemaker2015/unity3d-runtime-model-importer/master/images/3dmodel.jpg)
 
 *OBJ model imported with unity3d runtime model importer*
 
@@ -36,11 +36,11 @@ Some improvements are made in OBJ import compared with the current version of Un
   even with convex mesh generation
 
 
- ![image](https://raw.githubusercontent.com/codemaker2015/unity3d-runtime-model-importer/master/images/unity_vs_unity3d runtime model importer_Zup.png)
+ ![image](https://raw.githubusercontent.com/codemaker2015/unity3d-runtime-model-importer/master/images/zup.png)
  
 *Example of a model imported with unity3d runtime model importer*
 
- ![image](https://raw.githubusercontent.com/codemaker2015/unity3d-runtime-model-importer/master/images/unity3d runtime model importervsUnity.png)
+ ![image](https://raw.githubusercontent.com/codemaker2015/unity3d-runtime-model-importer/master/images/3dmodels.png)
  
  *Example of models imported with unity3d runtime model importer*
 
@@ -155,7 +155,5 @@ To try this project with Unity press the button **Clone or download** and choose
 [Runtime OBJ Loader]: http://forum.unity3d.com/threads/free-runtime-obj-loader.365884/
 [unity-obj-loader]: https://github.com/hammmm/unity-obj-loader
 [unity-remote-obj-loader]: https://github.com/cmdr2/unity-remote-obj-loader
-[compressed HTML]: https://github.com/codemaker2015/unity3d-runtime-model-importer/blob/master/Documentation/unity3d runtime model importer.chm
-[zipped HTML]: https://github.com/codemaker2015/unity3d-runtime-model-importer/blob/master/Documentation/unity3d runtime model importer_html.zip
-[Bartek Drozdz]: http://www.everyday3d.com/blog/index.php/2010/05/24/loading-3d-models-runtime-unity3d/
-
+[compressed HTML]: https://github.com/codemaker2015/unity3d-runtime-model-importer/blob/master/Documentation/documentation.chm
+[zipped HTML]: https://github.com/codemaker2015/unity3d-runtime-model-importer/blob/master/Documentation/documentation.zip
